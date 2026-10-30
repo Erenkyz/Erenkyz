@@ -1,19 +1,119 @@
-# 💫 About Me:
-🤗Hi! I’m @Erenkyz, Computer Science Student at WSB University<br>🌱 I’m currently learning Databases and Data modeling<br>⚡ I’m interested in any topic related to Machine learning and Data Science
 
-## 🌐 Socials:
-<a href="mailto:erenkaymaz7@gmail.com"><img src="https://img.shields.io/badge/erenkaymaz7@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/eren-kaymaz-26906a277/"><img src="https://img.shields.io/badge/Eren Kaymaz-blue?logo=linkedin&logoColor=white"></a>
+<div align="center">
 
+<sub>DATA ENGINEERING &nbsp; / &nbsp; ANALYTICS &nbsp; / &nbsp; BUSINESS & PRODUCT</sub>
 
+# Eren Kaymaz
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Building data solutions. Finding meaningful insights.
+
+Computer Science Student at WSB University · Poland
+
+Interested in Junior Data Engineering, Data Analytics, Business Analysis & Product Analytics opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/eren-kaymaz-26906a277/) &nbsp;·&nbsp; [Email](mailto:erenkaymaz7@gmail.com) &nbsp;·&nbsp; [Projects](#selected-work)
+
+</div>
+
+<br>
+
+## 01 / About
+
+I’m a Computer Science student with hands-on experience in **data analysis, database design, cloud data pipelines, and machine learning**.
+
+I enjoy working across the data lifecycle — collecting and structuring information, exploring patterns, and translating findings into insights that support better decisions.
+
+My interests lie at the intersection of **technology, business, and product thinking**. I’m building a portfolio that demonstrates not only technical implementation, but also the reasoning, trade-offs, and practical value behind each solution.
+
+<br>
+
+## 02 / Selected Work
+
+A selection of projects exploring data engineering, analytics, and predictive modeling.
+
+### 01 — Azure Library Data Pipeline
+**DATA ENGINEERING / CLOUD ARCHITECTURE**
+
+Designed a normalized relational database and implemented Azure Data Factory pipelines to transform and move library loan data between Azure SQL Database and Azure Cosmos DB.
+
+`Azure Data Factory` `Azure SQL` `Cosmos DB` `Data Modeling`
+
+[Explore project →](https://github.com/Erenkyz/azure-relational-to-nosql-migration)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Erenkyz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 02 — Polish Weather Data Collection & Visualization
+**DATA ENGINEERING / DATA ANALYTICS**
+
+Built a Python-based data collection workflow using the OpenWeatherMap API. Stored weather observations in PostgreSQL and explored temperature trends and weather patterns across four Polish cities.
+
+`Python` `REST API` `PostgreSQL` `Data Visualization`
+
+[Explore project →](https://github.com/Erenkyz/Polish-Weather-Data-Collection-and-Visualization)
+
+---
+
+### 03 — Customer Purchase Behavior Analysis
+**CUSTOMER ANALYTICS / MACHINE LEARNING**
+
+Analyzed 3,900 retail transactions and compared regression approaches to investigate purchasing behavior, feature relationships, and predictive limitations.
+
+`Python` `Pandas` `scikit-learn` `Exploratory Analysis`
+
+[Explore project →](https://github.com/Erenkyz/Customer-Purchase-Behavior-Analysis)
+
+---
+
+### 04 — Movie Revenue Prediction
+**MACHINE LEARNING / PREDICTIVE ANALYTICS**
+
+Explored Transformer-based classification for predicting movie revenue categories using structured movie data, feature engineering, and deep learning.
+
+`Python` `Deep Learning` `Transformers` `Feature Engineering`
+
+[Explore project →](https://github.com/Erenkyz/Movie-Revenue-Prediction-with-Transformer-on-Tabular-Data)
+
+<br>
+
+## 03 / Technical Expertise
+
+| Area | Tools & Technologies |
+|:---|:---|
+| **Programming** | Python, SQL |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Databases** | PostgreSQL, SQL Server, Relational Data Modeling |
+| **Data Engineering** | ETL/ELT, REST APIs, Azure Data Factory |
+| **Cloud & Storage** | Azure SQL Database, Azure Cosmos DB |
+| **Machine Learning** | scikit-learn, Regression, Classification, Model Evaluation |
+| **Development** | Git, GitHub, Jupyter Notebook |
+
+<br>
+
+## 04 / Current Focus
+
+I'm continuing to develop my skills in:
+
+- **Data Engineering** — reliable pipelines, automation, and data modeling.
+- **Data Analytics** — SQL-driven analysis, KPIs, and decision-support reporting.
+- **Business Analysis** — translating business problems into structured requirements and measurable outcomes.
+- **Product Analytics** — user behavior, product metrics, and experimentation.
+
+<br>
+
+## 05 / Let's Connect
+
+I'm interested in opportunities where I can contribute to data-driven projects, learn from experienced teams, and develop solutions that connect technical work with real business needs.
+
+**Open to junior opportunities across Data Engineering, Data Analytics, Business Analysis, and Product Analytics.**
+
+[LinkedIn](https://www.linkedin.com/in/eren-kaymaz-26906a277/) &nbsp;·&nbsp; [Email](mailto:erenkaymaz7@gmail.com)
+
+---
+
+<div align="center">
+<sub>Built with curiosity, analytical thinking, and a focus on continuous improvement.</sub>
+</div>
+
 
 
 
